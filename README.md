@@ -10,7 +10,7 @@ Im a cyber security major I enjoy playing pickle ball and hanging out with frien
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://github.com/settings/profile )
-[![LinkedIn]
+- [GitHub Profile](https://github.com/jaydendmac07-crypto)
+- LinkedIn: Not available yet
 
 "Quit talking and begin doing"
